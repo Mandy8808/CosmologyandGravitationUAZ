@@ -12,7 +12,7 @@ The numerical codes available in the repository were created with the support of
 ## Publications List and its repository folders
 - [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
-- [Horndeski stars](Horndeski_Stars/README.md) [`Folder`](Horndeski_Stars/README.md)
+- [Horndeski stars](Horndeski_Stars/README.md) `Folder`
 
 - [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
 
