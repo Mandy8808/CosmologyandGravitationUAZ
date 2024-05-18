@@ -3,30 +3,45 @@
 </p>
 
 # Cosmology and Gravitation - UAZ
-<img align="right" width="33%" src="galleries/UA_UAZ.png">
+<img align="right" width="25%" src="galleries/UA_UAZ.png">
 
-The repository correspond to a compilation of different numerical tools created by the Cosmology and Gravitation group of the [Unidad Académica de Física](https://fisica.uaz.edu.mx) vinculated to the [Autonomous University of Zacatecas](https://www.uaz.edu.mx).
+This repository is a compilation of various numerical tools developed by the Cosmology and Gravitation group at the [Unidad Académica de Física](https://fisica.uaz.edu.mx) affiliated with the [Autonomous University of Zacatecas](https://www.uaz.edu.mx).
 
-This repository was created in the m
+The numerical codes available in the repository were created with the support of the project _Null Geodesics Around Black Holes in Modified Gravity_ and were developed within the framework of the publications detailed below.
 
+## Publications List
+If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
-Proyecto: Null geodesics around black holes in modified gravity
+### [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
+The repository
+
+### [Horndeski stars](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/022)
+
+The repository
+
+### [Total light bending in non-asymptotically flat black hole spacetimes](https://iopscience.iop.org/article/10.1088/1361-6382/ad0e81)
+
+The repository **TLB_non_asymptoticallyFBHST** comprises two folders: 
+
+- **Mathematica's notebook**: This folder contains Mathematica notebooks presenting the null-geodesic solutions and the triangular configurations studied.
+- **Python jupyter's notebooks**: This folder includes Jupyter notebooks utilized for validating the Mathematica results and generating the plots.
+
+### [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/abs/2403.13062)
+
+The repository .
+
+### [Constraining modified gravity models through strong lensing cosmography](https://arxiv.org/pdf/2403.09910)
+
+The repository **CMGM_SLC** comprises two folders:
+
+- **Observational_data**: This folder contains a data file comprising a compilation of strong-lensing systems. For further information, please refer to the associated [paper](https://academic.oup.com/mnras/article/498/4/6013/5904771)
+- **Python**: This folder contains a Python script implementing the lensing equations and utilizing a Monte Carlo algorithm to constrain the model's free parameters with the provided data.
 
 ## About the group
 Our research focuses on exploring and identifying potential signatures of alternative models to general relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of general relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
 
 Check out our [home page]() for more information.
-
-## Publications List
--   
-
-If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
-
-Artículos: Total light bending in non-asymptotically flat black hole spacetimes, 10.1088/1361-6382/ad0e81
-Ese es el único publicado directamente asociado al proyecto hasta ahora. Otros dos que están en revisión son: Shadows of black holes in dynamical Chern-Simons modified gravity (https://arxiv.org/abs/2403.13062) y Constraining modified gravity models through strong lensing cosmography (arXiv:2403.09910) (de este Mario puede subir o mandar sus códigos)
-
-Y como otros trabajos anteriores asociados al tema podrías poner este: Strong gravitational lensing by DHOST black holes (10.1088/1361-6382/abdd0d) y el de Horndeski stars
 
 ## Contact
 You can contact us via email: gcc(at)fisica.uaz.edu.mx
