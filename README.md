@@ -1,4 +1,6 @@
-<center>![Matplotlib logotype](galleries/UAZ_UA.png)<center>
+<p align="center" width="100%">
+    <img width="33%" src="galleries/UAZ_UA.png">
+</p>
 
 # Cosmology and Gravitation - UAZ
 
