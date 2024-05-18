@@ -12,7 +12,7 @@ The numerical codes available in the repository were created with the support of
 ## Publications List and its repository folders
 - [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
-- [Horndeski stars](Horndeski_Stars/README.md) `Folder`
+- [Horndeski stars](Horndeski_Stars/README.md) [`Folder`](Horndeski_Stars/README.md)
 
 - [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
 
@@ -23,7 +23,7 @@ The numerical codes available in the repository were created with the support of
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
 ## About the group
-Our research focuses on exploring and identifying potential signatures of alternative models to general relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of general relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
+Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
 
 Check out our [home page]() for more information.
 
