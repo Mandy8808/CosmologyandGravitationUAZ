@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="40%" src="galleries/UAZ_UA.png">
+    <img width="40%" src="galleries/UA_UAZ.png">
 </p>
 
 # Cosmology and Gravitation - UAZ
