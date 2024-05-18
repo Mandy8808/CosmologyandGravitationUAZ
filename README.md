@@ -2,11 +2,8 @@
     <img width="90%" src="galleries/UAZ_UA.png">
 </p>
 
-<p align="center" width="100%">
-    <img width="40%" src="galleries/UA_UAZ.png">
-</p>
-
 # Cosmology and Gravitation - UAZ
+<img align="right" width="33%" src="galleries/UA_UAZ.png">
 
 The repository correspond to a compilation of different numerical tools created by the Cosmology and Gravitation group of the [Unidad Académica de Física](https://fisica.uaz.edu.mx) vinculated to the [Autonomous University of Zacatecas](https://www.uaz.edu.mx).
 
@@ -32,4 +29,4 @@ Ese es el único publicado directamente asociado al proyecto hasta ahora. Otros 
 Y como otros trabajos anteriores asociados al tema podrías poner este: Strong gravitational lensing by DHOST black holes (10.1088/1361-6382/abdd0d) y el de Horndeski stars
 
 ## Contact
-You can contact us via email: Gcc(at)fisica.uaz.edu.mx
+You can contact us via email: gcc(at)fisica.uaz.edu.mx
