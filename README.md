@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="galleries/UAZ_UA.png">
+    <img width="80%" src="galleries/UAZ_UA.png">
 </p>
 
 # Cosmology and Gravitation - UAZ
