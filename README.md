@@ -1,4 +1,4 @@
-![Matplotlib logotype](galleries/UAZ_UA.png)
+<center>![Matplotlib logotype](galleries/UAZ_UA.png)<center>
 
 # Cosmology and Gravitation - UAZ
 
