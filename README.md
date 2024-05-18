@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img width="80%" src="galleries/UAZ_UA.png">
+    <img width="90%" src="galleries/UAZ_UA.png">
 </p>
 
 # Cosmology and Gravitation - UAZ
 
-The repository correspont to a recopilation of differents numerical tools create by the group 
+The repository correspond to a compilation of different numerical tools create by the group
 
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
