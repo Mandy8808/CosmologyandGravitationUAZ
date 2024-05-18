@@ -12,13 +12,13 @@ The numerical codes available in the repository were created with the support of
 ## Publications List and its repository folders
 - [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
-- [Horndeski stars](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/022)
+- [Horndeski stars](Horndeski_Stars.README.md)
 
-- [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md)
+- [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) **Folder**
 
 - [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/abs/2403.13062)
 
-- [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md)
+- [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) **Folder**
 
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
