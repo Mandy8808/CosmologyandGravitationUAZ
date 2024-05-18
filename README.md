@@ -9,7 +9,7 @@ This repository is a compilation of various numerical tools developed by the Cos
 
 The numerical codes available in the repository were created with the support of the project _Null Geodesics Around Black Holes in Modified Gravity_ and were developed within the framework of the publications detailed below.
 
-## Publications List
+## Publications List and its repository folders
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
 ### [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
@@ -20,12 +20,8 @@ The repository
 
 The repository
 
-### [Total light bending in non-asymptotically flat black hole spacetimes](https://iopscience.iop.org/article/10.1088/1361-6382/ad0e81)
+- [Contribution guidelines for this project](TLB_non_asymptoticallyFBHST/README.md)
 
-The repository **TLB_non_asymptoticallyFBHST** comprises two folders: 
-
-- **Mathematica's notebook**: This folder contains Mathematica notebooks presenting the null-geodesic solutions and the triangular configurations studied.
-- **Python jupyter's notebooks**: This folder includes Jupyter notebooks utilized for validating the Mathematica results and generating the plots.
 
 ### [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/abs/2403.13062)
 
