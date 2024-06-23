@@ -27,5 +27,9 @@ Our research focuses on exploring and identifying potential signatures of altern
 
 Check out our [home page]() for more information.
 
+## Lectures
+
+- [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
+
 ## Contact
 You can contact us via email: gcc(at)fisica.uaz.edu.mx
