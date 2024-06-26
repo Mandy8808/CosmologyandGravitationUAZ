@@ -30,7 +30,7 @@ Check out our [home page]() for more information.
 ## Lectures
 
 - [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
-- [Gravitation with xAct](/Gravit.xAct/): Sitio web [xAct](http://www.xact.es). [Grupo](https://groups.google.com/g/xAct?hl=en&pli=1)
+- [Gravitation with xAct](/Gravit.xAct/): Sitio web [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
         
 
 ## Contact
