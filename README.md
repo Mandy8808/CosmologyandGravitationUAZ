@@ -30,7 +30,7 @@ Check out our [home page]() for more information.
 ## Lectures
 
 - [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
-- [Gravitation with xAct](/Gravit.xAct/): Sitio web [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
+- [Gravitation with xAct](/Gravit.xAct/): Website [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
 - [Cosmología bayesiana](/CosmologBayes/). Extra info: [Ref1](https://inspirehep.net/literature/1608001), 
 [Ref2](https://inspirehep.net/literature/1739019), [Ref3](https://inspirehep.net/literature/1813263
 ), [Ref4](https://inspirehep.net/literature/2769191)
