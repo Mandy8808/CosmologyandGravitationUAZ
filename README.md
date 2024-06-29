@@ -22,25 +22,22 @@ The numerical codes available in the repository were created with the support of
 
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
-## About the group
-Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
-
-Check out our [home page]() for more information.
-
 ## Conferences and Workshops
 
-### [Taller de cosmología y gravitación 2024](/galleries/TVGC24%20-%20Horario.pdf). *Herramientas de programación y estadística.* (26 al 28 de Junio)
+[Taller de cosmología y gravitación 2024](/galleries/TVGC24%20-%20Horario.pdf). *Herramientas de programación y estadística.* (26 al 28 de Junio)
 
 > [!NOTE]
-- [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
-- [Gravitation with xAct](/Gravit.xAct/): Website [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
-- [Cosmología bayesiana](/CosmologBayes/). Extra info: [Ref1](https://inspirehep.net/literature/1608001), 
-[Ref2](https://inspirehep.net/literature/1739019), [Ref3](https://inspirehep.net/literature/1813263
-), [Ref4](https://inspirehep.net/literature/2769191)
+ > - [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
+ > - [Gravitation with xAct](/Gravit.xAct/): Website [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
+ > - [Cosmología bayesiana](/CosmologBayes/). Extra info: [Ref1](https://inspirehep.net/literature/1608001),  [Ref2](https://inspirehep.net/literature/1739019), [Ref3](https://inspirehep.net/literature/1813263), [Ref4](https://inspirehep.net/literature/2769191)
 
 [!IMPORTANT]
 [Online Lectures](https://youtube.com/@grupodegravitacionycosmologiau?si=yg6VIxuJNGNiqKMT)
 
+## About the group
+Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
+
+Check out our [home page]() for more information.
 
 ## Contact
 You can contact us via email: gcc(at)fisica.uaz.edu.mx
