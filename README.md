@@ -27,7 +27,9 @@ Our research focuses on exploring and identifying potential signatures of altern
 
 Check out our [home page]() for more information.
 
-## Lectures
+## Conferences and Workshops
+
+### Taller de cosmología y gravitación 2024. {\it Herramientas de programación y estadística.} (26 al 28 de Junio)
 
 - [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
 - [Gravitation with xAct](/Gravit.xAct/): Website [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
@@ -35,6 +37,6 @@ Check out our [home page]() for more information.
 [Ref2](https://inspirehep.net/literature/1739019), [Ref3](https://inspirehep.net/literature/1813263
 ), [Ref4](https://inspirehep.net/literature/2769191)
 
-
+## Workshop
 ## Contact
 You can contact us via email: gcc(at)fisica.uaz.edu.mx
