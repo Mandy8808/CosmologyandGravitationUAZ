@@ -31,7 +31,7 @@ Check out our [home page]() for more information.
 
 ### [Taller de cosmología y gravitación 2024](/galleries/TVGC24%20-%20Horario.pdf). *Herramientas de programación y estadística.* (26 al 28 de Junio)
 
-[!NOTE]
+> [!NOTE]
 - [Gravitation, Numerical Methods, and Python](https://github.com/Mandy8808/GR_NS_BS.git)
 - [Gravitation with xAct](/Gravit.xAct/): Website [xAct](http://www.xact.es). [Grupo de discusion](https://groups.google.com/g/xAct?hl=en&pli=1)
 - [Cosmología bayesiana](/CosmologBayes/). Extra info: [Ref1](https://inspirehep.net/literature/1608001), 
