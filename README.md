@@ -40,7 +40,7 @@ If our codes contribute to a project that leads to a publication, please acknowl
  > - [Class code website](http://class-code.net)
  > - [Class-github](https://github.com/lesgourg/class_public)
  > - [Installation instructions](https://github.com/lesgourg/class_public/wiki/Installation)
-> - [C gcc>=4.9 version](https://gcc.gnu.org)
+> - [gcc>=4.9 version](https://gcc.gnu.org)
 > - [Python](https://www.python.org)
 
 ## About the group
