@@ -37,9 +37,9 @@ If our codes contribute to a project that leads to a publication, please acknowl
 [Taller espontáneo: REVOLUCION COSMOLOGICA](/galleries/LumiosTypewriterOld.pdf). *Energía oscura: implementación numérica en el código CLASS .* (20 al 21 de Noviembre, 16:00 horas)
 
 > [!NOTE]
-    > - [Class code website](http://class-code.net)
-    > - [Class-github](https://github.com/lesgourg/class_public)
-    > - [Installation instructions](https://github.com/lesgourg/class_public/wiki/Installation)
+ > - [Class code website](http://class-code.net)
+  > - [Class-github](https://github.com/lesgourg/class_public)
+  > - [Installation instructions](https://github.com/lesgourg/class_public/wiki/Installation)
 
 ## About the group
 Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
