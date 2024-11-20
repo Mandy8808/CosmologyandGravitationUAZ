@@ -49,8 +49,9 @@ Our research focuses on exploring and identifying potential signatures of altern
 Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information.
 
 ## Talk and Lectures
- > [Talk](/Talks_and_Lectures/Talks)
- > [Lectures](/Talks_and_Lectures/Lectures)
+ > [Talk](/Talks_and_Lectures/Talks). Some talks given by researchers of the gravitation group.
+ 
+ > [Lectures](/Talks_and_Lectures/Lectures). 
 
 ## Contact
 You can contact us via email: gcc(at)fisica.uaz.edu.mx
