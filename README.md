@@ -9,6 +9,11 @@ This repository is a compilation of various numerical tools developed by the Cos
 
 The numerical codes available in the repository were created with the support of the project _Null Geodesics Around Black Holes in Modified Gravity_ and were developed within the framework of the publications detailed below.
 
+## About the group
+Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
+
+Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information.
+
 ## Publications List and its repository folders
 - [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
@@ -42,11 +47,6 @@ If our codes contribute to a project that leads to a publication, please acknowl
  > - [Installation instructions](https://github.com/lesgourg/class_public/wiki/Installation)
 > - [gcc>=4.9 version](https://gcc.gnu.org)
 > - [Python](https://www.python.org)
-
-## About the group
-Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
-
-Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information.
 
 ## Talk and Lectures
  > [Talk](/Talks_and_Lectures/Talks). Some talks given by researchers and students of the gravitation group
