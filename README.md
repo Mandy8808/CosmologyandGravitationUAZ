@@ -34,7 +34,7 @@ If our codes contribute to a project that leads to a publication, please acknowl
  > [!IMPORTANT]
  > [Online Lectures](https://youtube.com/@grupodegravitacionycosmologiau?si=yg6VIxuJNGNiqKMT)
 
-[Taller espontáneo: REVOLUCION COSMOLOGICA](/galleries/LumiosTypewriterOld.pdf). *Energía oscura: implementación numérica en el código CLASS .* (20 al 21 de Noviembre, 16:00 horas)
+[Taller espontáneo: REVOLUCION COSMOLOGICA](/galleries/poster-rc2024.pdf). *Energía oscura: implementación numérica en el código CLASS .* (20 al 21 de Noviembre, 16:00 horas)
 
 > [!NOTE]
  > - [Class code website](http://class-code.net)
