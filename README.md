@@ -21,7 +21,7 @@ Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ
 
 - [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
 
-- [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/abs/2403.13062)
+- [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/pdf/2403.13062) `Paper`
 
 - [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) `Folder`
 
