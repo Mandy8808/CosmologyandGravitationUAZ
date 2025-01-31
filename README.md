@@ -25,6 +25,10 @@ Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ
 
 - [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) `Folder`
 
+- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2412.06901) `Paper`
+
+- [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
+
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
 ## Conferences and Workshops
