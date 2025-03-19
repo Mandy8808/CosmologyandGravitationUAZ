@@ -27,7 +27,11 @@ Group members: [Image](/galleries/Foto_grupo.jpeg).
 
 - [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) `Folder`
 
-- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2412.06901) `Paper`
+- [Are nonrelativistic ground state $\ell$-boson stars only stable for $\ell=0$ and $\ell=1$?](https://arxiv.org/pdf/2310.18405) `Paper`
+
+- [On the linear stability of nonrelativistic selfinteracting boson stars](https://arxiv.org/pdf/2412.06901) `Paper`
+
+- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2402.07998) `Paper`
 
 - [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
 
@@ -44,8 +48,7 @@ If our codes contribute to a project that leads to a publication, please acknowl
 
  > [!IMPORTANT]
  > [Online Lectures](https://youtube.com/@grupodegravitacionycosmologiau?si=yg6VIxuJNGNiqKMT)
- 
- > Closing photo: [Image](/galleries/Foto_taller.jpeg).
+ > [Closing photo](/galleries/Foto_taller.jpeg).
 
 [Taller espontáneo: REVOLUCION COSMOLOGICA](/galleries/poster-rc2024.pdf). *Energía oscura: implementación numérica en el código CLASS .* (20 al 21 de Noviembre, 16:00 horas)
 
