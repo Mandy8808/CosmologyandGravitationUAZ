@@ -12,7 +12,9 @@ The numerical codes available in the repository were created with the support of
 ## About the group
 Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
 
-Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information.
+Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information. (Under construction)
+
+Group members: [Image](/galleries/Foto_grupo.jpeg).
 
 ## Publications List and its repository folders
 - [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
@@ -42,6 +44,7 @@ If our codes contribute to a project that leads to a publication, please acknowl
 
  > [!IMPORTANT]
  > [Online Lectures](https://youtube.com/@grupodegravitacionycosmologiau?si=yg6VIxuJNGNiqKMT)
+ > Closing photo: [Image](/galleries/Foto_taller.jpeg).
 
 [Taller espontáneo: REVOLUCION COSMOLOGICA](/galleries/poster-rc2024.pdf). *Energía oscura: implementación numérica en el código CLASS .* (20 al 21 de Noviembre, 16:00 horas)
 
