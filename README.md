@@ -17,23 +17,34 @@ Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ
 Group members: [Image](/galleries/Foto_grupo.jpeg).
 
 ## Publications List and its repository folders
-- [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
+- [Chern-Simons Inspired Massive Gravity](https://arxiv.org/pdf/2503.05210) `Paper`
 
-- [Horndeski stars](Horndeski_Stars/README.md) `Folder`
+- [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
 
-- [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
+- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2402.07998) `Paper`
+
+- [On the linear stability of nonrelativistic selfinteracting boson stars](https://arxiv.org/pdf/2412.06901) `Paper`
+
+- [Stability analysis of geodesics in dynamical Chern-Simons black holes: a geometrical perspective](https://arxiv.org/pdf/2412.14266) `Paper`
+
+- [Observational constraints on entropic cosmology](https://arxiv.org/pdf/2412.11260) `Paper`
+
+- [Are nonrelativistic ground state $\ell$-boson stars only stable for $\ell=0$ and $\ell=1$?](https://arxiv.org/pdf/2310.18405) `Paper`
+
+- [Categorical generalization of BF theory coupled to gravity](https://arxiv.org/pdf/2408.02889) `Paper`
 
 - [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/pdf/2403.13062) `Paper`
 
 - [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) `Folder`
 
-- [Are nonrelativistic ground state $\ell$-boson stars only stable for $\ell=0$ and $\ell=1$?](https://arxiv.org/pdf/2310.18405) `Paper`
+- [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
 
-- [On the linear stability of nonrelativistic selfinteracting boson stars](https://arxiv.org/pdf/2412.06901) `Paper`
+- [On the radial linear stability of nonrelativistic $\ell$-boson stars](https://arxiv.org/pdf/2302.00717) `Paper`
 
-- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2402.07998) `Paper`
+- [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
-- [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
+- [Horndeski stars](Horndeski_Stars/README.md) `Folder`
+
 
 If our codes contribute to a project that leads to a publication, please acknowledge our work by citing it.
 
