@@ -12,11 +12,7 @@ The numerical codes available in the repository were created with the support of
 ## About the group
 Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
 
-Check out our [home page](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home) for more information.
-
-[Group members](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/people)
-
-[Publications List](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/publications)
+Check out our [home page](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home) for more information: [Group members](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/people). [Publications List](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/publications)
 
 ## Some publications repository
 - [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
