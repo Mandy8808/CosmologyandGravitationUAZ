@@ -14,9 +14,9 @@ Our research focuses on exploring and identifying potential signatures of altern
 
 Check out our [home page](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home) for more information.
 
-Group members: [Image](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/people).
+[Group members](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/people)
 
-[Publications List](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/publications).
+[Publications List](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/publications)
 
 ## Some publications repository
 - [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
