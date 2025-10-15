@@ -12,36 +12,18 @@ The numerical codes available in the repository were created with the support of
 ## About the group
 Our research focuses on exploring and identifying potential signatures of alternative models to General Relativity, both at the cosmological scale and within compact objects. Additionally, within the framework of General Relativity, we investigate possible signatures from compact objects composed of non-baryonic matter.
 
-Check out our [home page](https://mandy8808.github.io/CosmologyandGravitationUAZ/) for more information. (Under construction)
+Check out our [home page](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home) for more information.
 
-Group members: [Image](/galleries/Foto_grupo.jpeg).
+Group members: [Image](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/people).
 
-## Publications List and its repository folders
-- [Chern-Simons Inspired Massive Gravity](https://arxiv.org/pdf/2503.05210) `Paper`
+[Publications List](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/publications).
 
+## Some publications repository
 - [Signatures of Cubic Gravity in the strong regime](https://github.com/flaviosanf/Implementation.git) `Repository`
-
-- [Nonrelativistic Proca stars: Spherical stationary and multi-frequency states](https://arxiv.org/pdf/2402.07998) `Paper`
-
-- [On the linear stability of nonrelativistic selfinteracting boson stars](https://arxiv.org/pdf/2412.06901) `Paper`
-
-- [Stability analysis of geodesics in dynamical Chern-Simons black holes: a geometrical perspective](https://arxiv.org/pdf/2412.14266) `Paper`
-
-- [Observational constraints on entropic cosmology](https://arxiv.org/pdf/2412.11260) `Paper`
-
-- [Are nonrelativistic ground state $\ell$-boson stars only stable for $\ell=0$ and $\ell=1$?](https://arxiv.org/pdf/2310.18405) `Paper`
-
-- [Categorical generalization of BF theory coupled to gravity](https://arxiv.org/pdf/2408.02889) `Paper`
-
-- [Shadows of black holes in dynamical Chern-Simons modified gravity](https://arxiv.org/pdf/2403.13062) `Paper`
 
 - [Constraining modified gravity models through strong lensing cosmography](CMGM_SLC.README.md) `Folder`
 
 - [Total light bending in non-asymptotically flat black hole spacetimes](TLB_non_asymptoticallyFBHST/README.md) `Folder`
-
-- [On the radial linear stability of nonrelativistic $\ell$-boson stars](https://arxiv.org/pdf/2302.00717) `Paper`
-
-- [Strong gravitational lensing by DHOST black holes](https://iopscience.iop.org/article/10.1088/1361-6382/abdd0d)
 
 - [Horndeski stars](Horndeski_Stars/README.md) `Folder`
 
@@ -71,12 +53,12 @@ If our codes contribute to a project that leads to a publication, please acknowl
 > - [Python](https://www.python.org)
 
 ## Talk and Lectures
- > [Talk](/Talks_and_Lectures/Talks). Some talks given by researchers and students of the gravitation group
+ > [Talk](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/conferences). Some talks given by researchers and students of the gravitation group
  
- > [Lectures](/Talks_and_Lectures/Lectures). 
+ > [Lectures](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/courses). 
 
 ## Contact
-You can contact us via email: gcc(at)fisica.uaz.edu.mx
+You can contact us via email: gcc(at)fisica.uaz.edu.mx or [contact](https://sites.google.com/fisica.uaz.edu.mx/uaf-uaz-cg-group/home/contact-or-visit-us)
 
 ## YouTube channel
 [@grupodegravitacionycosmologiau](https://www.youtube.com/@grupodegravitacionycosmologiau)
